@@ -14,9 +14,10 @@
     <main>
         <section class="section1">
             <div class="container">
-                <h3>Facture d'électricité simulée</h3>
+                <h3>Facture d'électricité</h3>
                 <form method="post">
                     <div class="ancien">
+
                         <label>Ancien index :</label>
                         <input type="number" name="Aindex" placeholder="ancien index" class="input">
                         <label>: القيمة السابقة</label>
